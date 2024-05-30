@@ -1,3 +1,5 @@
+![](linked_files/What_I_think_about.jpg)
+
 # Work and Life Summary of Shih-ying (Clare) Chao
 - Grew up in Taipei, Taiwan
 - Moved to the U.S. in Sophomore year of high school in San Diego, CA
