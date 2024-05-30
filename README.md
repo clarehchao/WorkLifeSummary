@@ -22,6 +22,28 @@ My lab was involved with several clinical trials, collecting breast CT images fr
   - [link to chap 3 and 4 of disseration?]
   - **IMPACT**: determined the optimial imaging system setting of dual energy dynamic imaging using the BreastCT systme with imaging dose consideration
 
-## During my time at UCSF ...
-- Conducte
+## During my time at UCSF as a research scientist, I worked on ...
+1. Patient-Specific Monte Carlo Dosimetry Calculation using dynamic I<sup>124<sup> PET/CT Imaging
+- Implemented a Monte-Carlo dosimetry calculator using GEANT4 Monte Carlo software and validated the dose metrics with other published dose metrics
+- For each patient who went through the clinical trial of I<sup>131<sup>-MIBG targeted radionuclide therapy, dose to and from each organ was computed using the dosimetry calculator and allow physicians to have a sense of dosimetry as they evaluate the treatment effectiveness
+- [point to Monte Carlo dose project repo] and [monte carlo tool code]
+- [show ANR poster]
+- [point to MIBI paper, my published paper]
+- **IMPACT**: the estimated dosimetry specific to each patient was helpful to physicians to evaluate the effectiveness of the treatment (look for the doctor's paper..)
+2. PET/CT Radiomics
+- Gathered and explored PET/CT and MR images of segmented breast tumors in 200+ patients with breast cancer
+- Implemented a Python-based tool [point to the repo] to compute 2D and 3D image features of the segmented PET and MR images of the breast tumors
+- Determined helpful features to predict breast cancer outcome using simple ML modeling including ....
+- [point to PETCTomics repo] and [POSTER??]
+- **IMPACT**: determine the power of 2D and 3D image features of the PET and MR images in predicting breast cancer outcome
+
+# A few extra small proof-of-concept projects that I worked on ...
+- Proof of concept of a proton-counting SPECT/CT imaging system [IEEE 2015 poster]
+- The effect of magnetic field on positron range using Monte Carlo simulations [IEEE 2014 poster]
+- Implemented 3D MLEM image reconstruction algorithm using Spark GraphX for faster computationg time
+- **IMPACT and SKILLS**:
+	- flexible with simple proof-of-concept implementation and experimentation
+	- ready to answer a research question using computation and experimenation
+	- quick to pick up tools or programing language to implement and conduct a research projects
+    
 
