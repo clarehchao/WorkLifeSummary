@@ -1,8 +1,9 @@
 ![](linked_files/What_I_think_about.jpg)
 
 # Work and Life Summary of Shih-ying (Clare) Chao
-- Grew up in Taipei, Taiwan
-- Moved to the U.S. in Sophomore year of high school in San Diego, CA
+- Born in Taipei, Taiwan
+- Growing up, I was always drawing friends and families to gift them greeting cards and often have think about things to draw or create
+- Moved to the U.S. at age of 16-year-old (10th grade in high school) in San Diego, CA
 - I really enjoyed Calculus and computer programming classes in high school
 - Finished my bachelor degree in Electrical Engineering (University of California, San Diego) with emphasis of image processing
 - Completed my PhD in Biomedical Engineering (University of California, Davis) with Dr. John M. Boone (pioneer of the BreastCT imaging system)
@@ -47,5 +48,8 @@ My lab was involved with several clinical trials, collecting breast CT images fr
 	- flexible with simple proof-of-concept implementation and experimentation
 	- ready to answer a research question using computation and experimenation
 	- quick to pick up tools or programing language to implement and conduct a research projects
-    
 
+## When I became a mom to 2 silly and fun boys, I took some time to slow down and works on things when I can ...
+- Involved in a local co-op teaching preK kids about bible, the alphabet, counting, and fun games/crafts (lesson planning and teach at an age-appropriate manner)
+- Started illustration at nights or kids' nap time using Procreate on an IPAD making greeting cards and children's books ([My illustration portfolio](https://www.behance.net/shihyingclarechao)).
+- Realize my love of creating and finding ways to communicate a concept or idea using visualization, whether it's illustration or explore data to create a visualization best fit to tell a good story.
