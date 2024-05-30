@@ -47,7 +47,7 @@ My lab was involved with several clinical trials, collecting breast CT images fr
 - **IMPACT and SKILLS**:
 	- flexible with simple proof-of-concept implementation and experimentation
 	- ready to answer a research question using computation and experimenation
-	- quick to pick up tools or programing language to implement and conduct a research projects
+	- quick to pick up tool or programing language to implement and conduct a research project
 
 ## When I became a mom to 2 silly and fun boys, I took some time to slow down and works on things when I can ...
 - Involved in a local co-op teaching preK kids about bible, the alphabet, counting, and fun games/crafts (lesson planning and teach at an age-appropriate manner)
