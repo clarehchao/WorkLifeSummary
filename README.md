@@ -1,4 +1,4 @@
-![](linked_files/What_I_think_about.jpg)
+![](https://www.dropbox.com/scl/fi/472kd7stm57jxmrkjozor/What_I_think_about.jpg?rlkey=3mq6rjskkz8pgay0pcl0llk2i&st=gagpxvib&dl=0)
 
 # Work and Life Summary of Shih-ying (Clare) Chao
 - Born in Taipei, Taiwan
@@ -30,7 +30,8 @@ My lab was involved with several clinical trials, collecting breast CT images fr
 - Implemented a Monte-Carlo dosimetry calculator using GEANT4 Monte Carlo software and validated the dose metrics with other published dose metrics
 - For each patient who went through the clinical trial of I<sup>131</sup>-MIBG targeted radionuclide therapy, dose to and from each organ was computed using [the dosimetry calculator](https://github.com/clarehchao/ImageBasedDosimetryTool?tab=readme-ov-file) and allow physicians to have a sense of dosimetry as they evaluate the treatment effectiveness
 - See [the poster](https://www.dropbox.com/scl/fi/5xtluwyhp6ubhasct82bo/I131MIBG_CologneANR2014_Huang.jpg?rlkey=5dbiakltw5zabmpac17r59cds&st=n6vvlduu&dl=0) presented at [Advances in Neuroblastoma Research Association, 2014, Cologne, Germany](https://www.anrmeeting.org/meetings-2014.php)
-- [point to MIBI paper, my published paper]
+- See details in [Patient-Specific Dosimetry Using Pretherapy [124I]m-iodobenzylguanidine([124I]mIBG) Dynamic PET/CT Imaging Before [131I]mIBG Targeted Radionuclide
+Therapy for Neuroblastoma](https://www.dropbox.com/scl/fi/df486p3vw5ycv1w585111/I124MIBG_MIBJournalPublicationPrint_MIB_SHuang.pdf?rlkey=avewd6hutwxalcagufqwgnvcv&st=ss7htr66&dl=0)
 - **IMPACT**: The estimated dosimetry specific to each patient was helpful to physicians to evaluate the effectiveness of the treatment (look for the doctor's paper..)
 2. PET/CT Radiomics
 - Gathered and explored PET/CT and MR images of segmented breast tumors in 200+ patients with breast cancer
