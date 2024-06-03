@@ -16,7 +16,8 @@ My lab was involved with several clinical trials, collecting breast CT images fr
   - Cup-size related measurement
   - Skin thickness
   - Distribution of breast glandular tissues
-  - See more details in [Skin Thickess using Breast CT Images]<object data="/linked_files/Publications/SkinTMammoDose_2008_Huang.pdf" type="application/pdf" width="100%"></object>, [Breast Anatomical Metrics Using Breast CT Images](linked_files/Publications/BreastMetrics_2011_Huang.pdf), and [Chapter 2 of my PhD dissertation](linked_files/Disseration_UCstyleClass_SHuang.pdf)
+  - See more details in ```{r}
+htmltools::HTML('<a href=linked_files/Publications/SkinTMammoDose_2008_Huang.pdf>Skin Thickess using Breast CT Images</a>')```, [Breast Anatomical Metrics Using Breast CT Images](linked_files/Publications/BreastMetrics_2011_Huang.pdf), and [Chapter 2 of my PhD dissertation](linked_files/Disseration_UCstyleClass_SHuang.pdf)
   - **IMPACT**: The breast anatomy characterization helps the breast cancer research immensely by providing a gold standard of breast anatomy in many area of research including image simulation (when designing an imaging system or lack the amount of human imaging data for furthre research), dosimetry estimation and calculation, and image system optimization and designing
 2. I optimized a new imaging technique (dual-energy mammography) on the BreastCT system
   - Simulated images by modeling the imaging detector and system setup (mathematically and experimentally characterized the detector of the BreastCT system)
