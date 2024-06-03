@@ -26,9 +26,9 @@ My lab was involved with several clinical trials, collecting breast CT images fr
   - **IMPACT**: Determined the optimial imaging system setting of dual energy dynamic imaging using the BreastCT systme with imaging dose consideration
 
 ## During my time at UCSF as a research scientist, I worked on ...
-1. Patient-Specific Monte Carlo Dosimetry Calculation using dynamic I<sup>124<sup> PET/CT Imaging
+1. Patient-Specific Monte Carlo Dosimetry Calculation using dynamic I<sup>124</sup> PET/CT Imaging
 - Implemented a Monte-Carlo dosimetry calculator using GEANT4 Monte Carlo software and validated the dose metrics with other published dose metrics
-- For each patient who went through the clinical trial of I<sup>131<sup>-MIBG targeted radionuclide therapy, dose to and from each organ was computed using the dosimetry calculator and allow physicians to have a sense of dosimetry as they evaluate the treatment effectiveness
+- For each patient who went through the clinical trial of I<sup>131</sup>-MIBG targeted radionuclide therapy, dose to and from each organ was computed using the dosimetry calculator and allow physicians to have a sense of dosimetry as they evaluate the treatment effectiveness
 - [point to Monte Carlo dose project repo] and [monte carlo tool code]
 - [show ANR poster]
 - [point to MIBI paper, my published paper]
