@@ -1,4 +1,4 @@
-[](linked_files/What_I_think_about.jpg)
+![](linked_files/What_I_think_about.jpg)
 
 # Work and Life Summary of Shih-ying (Clare) Chao
 - Born in Taipei, Taiwan
@@ -22,7 +22,7 @@ My lab was involved with several clinical trials, collecting breast CT images fr
   - Simulated images by modeling the imaging detector and system setup (mathematically and experimentally characterized the detector of the BreastCT system)
   - Designed and constructed a static and dynamic breast phantom for optimization tasks
   - Conducted a comprehensive optimization considering various imaging system setup and the associated dosimetry
-  - [Chapter 3 and 4 of my PhD disseration](linked_files/Disseration_UCstyleClass_SHuang.pdf)
+  - See details in [Chapter 3 and 4 of my PhD disseration](linked_files/Disseration_UCstyleClass_SHuang.pdf)
   - **IMPACT**: Determined the optimial imaging system setting of dual energy dynamic imaging using the BreastCT systme with imaging dose consideration
 
 ## During my time at UCSF as a research scientist, I worked on ...
