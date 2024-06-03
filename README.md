@@ -1,4 +1,4 @@
-![](https://www.dropbox.com/scl/fi/472kd7stm57jxmrkjozor/What_I_think_about.jpg?rlkey=3mq6rjskkz8pgay0pcl0llk2i&st=gagpxvib&dl=0)
+![](https://www.dropbox.com/scl/fi/472kd7stm57jxmrkjozor/What_I_think_about.jpg?rlkey=3mq6rjskkz8pgay0pcl0llk2i&st=awilcfz4&dl=0)
 
 # Work and Life Summary of Shih-ying (Clare) Chao
 - Born in Taipei, Taiwan
