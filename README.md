@@ -11,14 +11,14 @@
 
 ## During my PhD years, I learned a lot ...
 My lab was involved with several clinical trials, collecting breast CT images from hundreds of human volunteers
-#1. With the large amount of breast CT images, I characterized the beast anatomny in many ways including
+1. **With the large amount of breast CT images, I characterized the beast anatomny in many ways including**
   - Breast density
   - Cup-size related measurement
   - Skin thickness
   - Distribution of breast glandular tissues
   - See more details in [Skin Thickess using Breast CT Images](https://www.dropbox.com/scl/fi/mxlqm1fl692f389lag5xy/SkinTMammoDose_2008_Huang.pdf?rlkey=r2e40p22vpfls18p20161te87&st=32uqsauz&dl=0),[Breast Anatomical Metrics Using Breast CT Images]([./linked_files/Publications/BreastMetrics_2011_Huang.pdf](https://www.dropbox.com/scl/fi/mlpugzwewopv08n9ueg9k/BreastMetrics_2011_Huang.pdf?rlkey=u4gf6yeb4jcbwgghp9pwl0fut&st=lt5rg2we&dl=0)), and [Chapter 2 of my PhD dissertation](https://www.dropbox.com/scl/fi/0nfeebra9kj08jbzaqfwz/Disseration_UCstyleClass_SHuang.pdf?rlkey=fv5asruxf1hpnqwim5t36c3ez&st=sr7rlmah&dl=0)
   - **IMPACT**: The breast anatomy characterization helps the breast cancer research immensely by providing a gold standard of breast anatomy in many area of research including image simulation (when designing an imaging system or lack the amount of human imaging data for furthre research), dosimetry estimation and calculation, and image system optimization and designing
-#2. I optimized a new imaging technique (dual-energy mammography) on the BreastCT system
+2. **I optimized a new imaging technique (dual-energy mammography) on the BreastCT system**
   - Simulated images by modeling the imaging detector and system setup (mathematically and experimentally characterized the detector of the BreastCT system)
   - Designed and constructed a static and dynamic breast phantom for optimization tasks
   - Conducted a comprehensive optimization considering various imaging system setup and the associated dosimetry
@@ -26,14 +26,14 @@ My lab was involved with several clinical trials, collecting breast CT images fr
   - **IMPACT**: Determined the optimial imaging system setting of dual energy dynamic imaging using the BreastCT systme with imaging dose consideration
 
 ## During my time at UCSF as a research scientist, I worked on ...
-#1. Patient-Specific Monte Carlo Dosimetry Calculation using dynamic I<sup>124</sup> PET/CT Imaging
+1.**Patient-Specific Monte Carlo Dosimetry Calculation using dynamic I<sup>124</sup> PET/CT Imaging**
 - Implemented a Monte-Carlo dosimetry calculator using GEANT4 Monte Carlo software and validated the dose metrics with other published dose metrics
 - For each patient who went through the clinical trial of I<sup>131</sup>-MIBG targeted radionuclide therapy, dose to and from each organ was computed using [the dosimetry calculator](https://github.com/clarehchao/ImageBasedDosimetryTool?tab=readme-ov-file) and allow physicians to have a sense of dosimetry as they evaluate the treatment effectiveness
 - See [the poster](https://www.dropbox.com/scl/fi/5xtluwyhp6ubhasct82bo/I131MIBG_CologneANR2014_Huang.jpg?rlkey=5dbiakltw5zabmpac17r59cds&st=n6vvlduu&dl=0) presented at [Advances in Neuroblastoma Research Association, 2014, Cologne, Germany](https://www.anrmeeting.org/meetings-2014.php)
 - See details in [Patient-Specific Dosimetry Using Pretherapy [124I]m-iodobenzylguanidine([124I]mIBG) Dynamic PET/CT Imaging Before [131I]mIBG Targeted Radionuclide
 Therapy for Neuroblastoma](https://www.dropbox.com/scl/fi/df486p3vw5ycv1w585111/I124MIBG_MIBJournalPublicationPrint_MIB_SHuang.pdf?rlkey=avewd6hutwxalcagufqwgnvcv&st=ss7htr66&dl=0)
 - **IMPACT**: The estimated dosimetry specific to each patient was helpful to physicians to evaluate the effectiveness of the treatment (look for the doctor's paper..)
-#2. PET/CT Radiomics
+2.**PET/CT Radiomics**
 - Gathered and explored PET/CT and MR images of segmented breast tumors in 200+ patients with breast cancer
 - Implemented a Python-based tool to compute 2D and 3D image features of the segmented PET and MR images of the breast tumors
 - Determined helpful features to predict breast cancer outcome using machine learning models
