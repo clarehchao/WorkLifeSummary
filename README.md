@@ -52,5 +52,5 @@ My lab was involved with several clinical trials, collecting breast CT images fr
 
 ## When I became a mom to 2 silly and fun boys, I took some time to slow down and works on things when I can ...
 - Involved in a local co-op teaching preK kids about bible, the alphabet, counting, and fun games/crafts (lesson planning and teach at an age-appropriate manner)
-- Started illustrating more during my free time using Procreate on an IPAD making greeting cards and children's books ([My Etsy shop](https://thecraftyslug.etsy.com) and [My illustration portfolio](https://www.behance.net/shihyingclarechao)).
+- Started illustrating more during my free time using [Procreate on an IPAD](https://procreate.com/) making greeting cards and children's books ([My Etsy shop](https://thecraftyslug.etsy.com) and [My illustration portfolio](https://www.behance.net/shihyingclarechao)).
 - Realize my love of creating and finding ways to communicate a concept or idea using visualization, whether it's illustration or explore data to create a visualization best fit to tell a compelling story
