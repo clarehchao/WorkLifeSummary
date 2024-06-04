@@ -46,9 +46,9 @@ My lab was involved with several clinical trials, collecting breast CT images fr
 - [The effect of magnetic field on positron range using Monte Carlo simulations](https://www.dropbox.com/scl/fi/els0rwhxzery4585nqg9q/MagFieldPositronRange_Huang_42x70_4_Poster.pdf?rlkey=zddwf8tu6gn2g47ryayqd70tw&st=gk8ea3u5&dl=0), poster presented at IEEE Nuclear Science Symposium and Medical Imaging Conference, November 2014
 - [3D MLEM image reconstruction algorithm using Spark GraphX for faster computationg time](https://www.dropbox.com/scl/fi/9yviih3lq1wj9d061sje4/MLEM_SparkGraphX_Poster_SHuang.pdf?rlkey=mmyrg16c777bugrx0s4tw9hp4&st=93rzk842&dl=0), poster presented at Fully3D conference, 2015
 - **IMPACT and SKILLS**:
-	- flexible with simple proof-of-concept implementation and experimentation
-	- ready to answer a research question using computation and experimenation
-	- quick to pick up tool or programing language to implement and conduct a research project
+	- Flexible with simple proof-of-concept implementation and experimentation
+	- Ready to answer a research question using computation and experimenation
+	- Quick to pick up tool or programing language to implement and conduct a research project
 
 ## When I became a mom to 2 silly and fun boys, I took some time to slow down and works on things when I can ...
 - Involved in a local co-op teaching preK kids about bible, the alphabet, counting, and fun games/crafts (lesson planning and teach at an age-appropriate manner)
