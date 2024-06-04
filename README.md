@@ -54,3 +54,4 @@ My lab was involved with several clinical trials, collecting breast CT images fr
 - Involved in a local co-op teaching preK kids about bible, the alphabet, counting, and fun games/crafts (lesson planning and teach at an age-appropriate manner)
 - Started illustrating more during my free time using [Procreate on an IPAD](https://procreate.com/) making greeting cards and children's books ([My Etsy shop](https://thecraftyslug.etsy.com) and [My illustration portfolio](https://www.behance.net/shihyingclarechao)).
 - Realize my love of creating and finding ways to communicate a concept or idea using visualization, whether it's illustration or explore data to create a visualization best fit to tell a compelling story
+- If not thinking about fuzzy and cute animals or being out in the nature, I often think about ideas of how to best visualize and present data for clear communication of the data
