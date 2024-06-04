@@ -1,4 +1,4 @@
-![]()
+![](linked_files/What_I_think_about.jpg)
 
 # Work and Life Summary of Shih-ying (Clare) Chao
 - Born in Taipei, Taiwan
@@ -35,15 +35,17 @@ Therapy for Neuroblastoma](https://www.dropbox.com/scl/fi/df486p3vw5ycv1w585111/
 - **IMPACT**: The estimated dosimetry specific to each patient was helpful to physicians to evaluate the effectiveness of the treatment (look for the doctor's paper..)
 2. PET/CT Radiomics
 - Gathered and explored PET/CT and MR images of segmented breast tumors in 200+ patients with breast cancer
-- Implemented a Python-based tool [point to the repo] to compute 2D and 3D image features of the segmented PET and MR images of the breast tumors
-- Determined helpful features to predict breast cancer outcome using simple ML modeling including ....
-- [point to PETCTomics repo] and [POSTER??]
+- Implemented a Python-based tool to compute 2D and 3D image features of the segmented PET and MR images of the breast tumors
+- Determined helpful features to predict breast cancer outcome using machine learning models
+- Check out [the PETCTomics project](https://github.com/clarehchao/PETCTomics) for code and jupyter notebooks
+- See [the PETCTomics poster](https://www.dropbox.com/scl/fi/38qhln0c3welwwxo59pmx/PETMRIRadiomics_IEEE_2017_Huang_42inch_46inch_v5_Poster.pdf?rlkey=qaiokcoeq7z341wxs43eha9gt&st=vqj6obz4&dl=0) presented at IEEE Nuclear Science Symposium and Medical Imaging Conference, Atlanta, Georgia, October 2017
+- More details in [Exploration of PET and MRI radiomic features for decoding breast cancer phenotypes and prognosis](https://www.dropbox.com/scl/fi/f8omxjvddv5lzdjmkfy1z/PETCTomics_NPJ_SHuang.pdf?rlkey=r4nu7pay205cosxh0c7qb7hft&st=n9b21kdt&dl=0)
 - **IMPACT**: determine the power of 2D and 3D image features of the PET and MR images in predicting breast cancer outcome
 
 # A few extra small proof-of-concept projects that I worked on ...
-- Proof of concept of a proton-counting SPECT/CT imaging system [IEEE 2015 poster]
-- The effect of magnetic field on positron range using Monte Carlo simulations [IEEE 2014 poster]
-- Implemented 3D MLEM image reconstruction algorithm using Spark GraphX for faster computationg time
+- [Proof of concept of a proton-counting SPECT/CT imaging system](https://www.dropbox.com/scl/fi/31eeqy1u73wa5f45gc1a6/DxRayEnergySpectrum_IEEE_33x54inch_Huang_flatten_Poster.pdf?rlkey=dez683z21gb4nu3sdc1xlr4ju&st=q1pvitg2&dl=0) (collaborated with Dxray, Inc., poster presentation at IEEE Nuclear Science Symposium and Medical Imaging Conference, November 2012)
+- [The effect of magnetic field on positron range using Monte Carlo simulations](https://www.dropbox.com/scl/fi/els0rwhxzery4585nqg9q/MagFieldPositronRange_Huang_42x70_4_Poster.pdf?rlkey=zddwf8tu6gn2g47ryayqd70tw&st=gk8ea3u5&dl=0) presented at IEEE Nuclear Science Symposium and Medical Imaging Conference, November 2014
+- [3D MLEM image reconstruction algorithm using Spark GraphX for faster computationg time](https://www.dropbox.com/scl/fi/9yviih3lq1wj9d061sje4/MLEM_SparkGraphX_Poster_SHuang.pdf?rlkey=mmyrg16c777bugrx0s4tw9hp4&st=93rzk842&dl=0) presented at Fully3D conference, 2015
 - **IMPACT and SKILLS**:
 	- flexible with simple proof-of-concept implementation and experimentation
 	- ready to answer a research question using computation and experimenation
