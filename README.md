@@ -28,7 +28,7 @@ My lab was involved with several clinical trials, collecting breast CT images fr
 ## During my time at UCSF as a research scientist, I worked on ...
 1. **Patient-Specific Monte Carlo Dosimetry Calculation using dynamic I<sup>124</sup> PET/CT Imaging**
    - Implemented a Monte-Carlo dosimetry calculator using GEANT4 Monte Carlo software and validated the dose metrics with other published dose metrics
-   - For each patient who went through the clinical trial of I<sup>131</sup>-MIBG targeted radionuclide therapy, dose to and from each organ was computed using [the dosimetry calculator](https://github.com/clarehchao/ImageBasedDosimetryTool?tab=readme-ov-file) and allow physicians to have a sense of dosimetry as they evaluate the treatment effectiveness
+   - For each patient who went through the clinical trial of I<sup>131</sup>-MIBG targeted radionuclide therapy, dose to and from each organ was computed using [the dosimetry calculator on Github](https://github.com/clarehchao/ImageBasedDosimetryTool?tab=readme-ov-file) and allow physicians to have a sense of dosimetry as they evaluate the treatment effectiveness
    - See [the poster](https://www.dropbox.com/scl/fi/5xtluwyhp6ubhasct82bo/I131MIBG_CologneANR2014_Huang.jpg?rlkey=5dbiakltw5zabmpac17r59cds&st=n6vvlduu&dl=0) presented at [Advances in Neuroblastoma Research Association, 2014, Cologne, Germany](https://www.anrmeeting.org/meetings-2014.php)
    - See details in [Patient-Specific Dosimetry Using Pretherapy [124I]m-iodobenzylguanidine([124I]mIBG) Dynamic PET/CT Imaging Before [131I]mIBG Targeted Radionuclide Therapy for Neuroblastoma](https://www.dropbox.com/scl/fi/df486p3vw5ycv1w585111/I124MIBG_MIBJournalPublicationPrint_MIB_SHuang.pdf?rlkey=avewd6hutwxalcagufqwgnvcv&st=ss7htr66&dl=0)
    - **IMPACT**: The estimated dosimetry specific to each patient was helpful to physicians to evaluate the effectiveness of the treatment (look for the doctor's paper..)
@@ -36,7 +36,7 @@ My lab was involved with several clinical trials, collecting breast CT images fr
    - Gathered and explored PET/CT and MR images of segmented breast tumors in 200+ patients with breast cancer
    - Implemented a Python-based tool to compute 2D and 3D image features of the segmented PET and MR images of the breast tumors
    - Determined helpful features to predict breast cancer outcome using machine learning models
-   - Check out [the PETCTomics project](https://github.com/clarehchao/PETCTomics) for code and jupyter notebooks
+   - Check out [the PETCTomics project on Github](https://github.com/clarehchao/PETCTomics) for code and jupyter notebooks
    - See [the PETCTomics poster](https://www.dropbox.com/scl/fi/38qhln0c3welwwxo59pmx/PETMRIRadiomics_IEEE_2017_Huang_42inch_46inch_v5_Poster.pdf?rlkey=qaiokcoeq7z341wxs43eha9gt&st=vqj6obz4&dl=0) presented at IEEE Nuclear Science Symposium and Medical Imaging Conference, Atlanta, Georgia, October 2017
    - More details in [Exploration of PET and MRI radiomic features for decoding breast cancer phenotypes and prognosis](https://www.dropbox.com/scl/fi/f8omxjvddv5lzdjmkfy1z/PETCTomics_NPJ_SHuang.pdf?rlkey=r4nu7pay205cosxh0c7qb7hft&st=n9b21kdt&dl=0)
    - **IMPACT**: determine the power of 2D and 3D image features of the PET and MR images in predicting breast cancer outcome
