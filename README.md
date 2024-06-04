@@ -6,8 +6,8 @@
 - Moved to the U.S. at age of 16-year-old (10th grade in high school) in San Diego, CA
 - I really enjoyed Calculus and computer programming classes in high school
 - Finished my bachelor degree in Electrical Engineering (University of California, San Diego) with emphasis of image processing
-- Completed my PhD in Biomedical Engineering (University of California, Davis) with Dr. John M. Boone (pioneer of the BreastCT imaging system)
-- Research Scientist with the nuclear medicine group at UCSF (P.I: Youngho Seo, PhD)
+- Completed my PhD in Biomedical Engineering (University of California, Davis) with [Dr. John M. Boone (pioneer of the BreastCT imaging system)](https://bme.ucdavis.edu/people/john-boone)
+- Research Scientist with the nuclear medicine group at UCSF lead by [Dr. Youngho Seo](https://radiology.ucsf.edu/people/youngho-seo)
 
 ## During my PhD years, I learned a lot ...
 My lab was involved with several clinical trials, collecting breast CT images from hundreds of human volunteers
