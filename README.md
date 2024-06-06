@@ -37,12 +37,12 @@ My lab was involved with several clinical trials, collecting breast CT images fr
    - Implemented a Python-based tool to compute 2D and 3D image features of the segmented PET and MR images of the breast tumors
    - Determined helpful features to predict breast cancer outcome using machine learning models
    - Check out [the PETCTomics project on Github](https://github.com/clarehchao/PETCTomics) for code and jupyter notebooks
-   - See [the PETCTomics poster](https://www.dropbox.com/scl/fi/38qhln0c3welwwxo59pmx/PETMRIRadiomics_IEEE_2017_Huang_42inch_46inch_v5_Poster.pdf?rlkey=qaiokcoeq7z341wxs43eha9gt&st=vqj6obz4&dl=0) presented at IEEE Nuclear Science Symposium and Medical Imaging Conference, Atlanta, Georgia, October 2017
+   - See [the PETCTomics poster](https://www.dropbox.com/scl/fi/38qhln0c3welwwxo59pmx/PETMRIRadiomics_IEEE_2017_Huang_42inch_46inch_v5_Poster.pdf?rlkey=qaiokcoeq7z341wxs43eha9gt&st=vqj6obz4&dl=0) presented at IEEE Nuclear Science Symposium and Medical Imaging Conference, October 2017
    - More details in [Exploration of PET and MRI radiomic features for decoding breast cancer phenotypes and prognosis](https://www.dropbox.com/scl/fi/f8omxjvddv5lzdjmkfy1z/PETCTomics_NPJ_SHuang.pdf?rlkey=r4nu7pay205cosxh0c7qb7hft&st=n9b21kdt&dl=0)
    - **IMPACT**: determine the power of 2D and 3D image features of the PET and MR images in predicting breast cancer outcome
 
 # A few proof-of-concept projects that I worked on ...
-- [Proof of concept of a proton-counting SPECT/CT imaging system](https://www.dropbox.com/scl/fi/31eeqy1u73wa5f45gc1a6/DxRayEnergySpectrum_IEEE_33x54inch_Huang_flatten_Poster.pdf?rlkey=dez683z21gb4nu3sdc1xlr4ju&st=q1pvitg2&dl=0), collaborated with Dxray, Inc., poster presentated at IEEE Nuclear Science Symposium and Medical Imaging Conference, November 2012)
+- [Proof of concept of a proton-counting SPECT/CT imaging system](https://www.dropbox.com/scl/fi/31eeqy1u73wa5f45gc1a6/DxRayEnergySpectrum_IEEE_33x54inch_Huang_flatten_Poster.pdf?rlkey=dez683z21gb4nu3sdc1xlr4ju&st=q1pvitg2&dl=0), collaborated with Dxray, Inc., poster presentated at IEEE Nuclear Science Symposium and Medical Imaging Conference, November 2012
 - [The effect of magnetic field on positron range using Monte Carlo simulations](https://www.dropbox.com/scl/fi/els0rwhxzery4585nqg9q/MagFieldPositronRange_Huang_42x70_4_Poster.pdf?rlkey=zddwf8tu6gn2g47ryayqd70tw&st=gk8ea3u5&dl=0), poster presented at IEEE Nuclear Science Symposium and Medical Imaging Conference, November 2014
 - [3D MLEM image reconstruction algorithm using Spark GraphX for faster computationg time](https://www.dropbox.com/scl/fi/9yviih3lq1wj9d061sje4/MLEM_SparkGraphX_Poster_SHuang.pdf?rlkey=mmyrg16c777bugrx0s4tw9hp4&st=93rzk842&dl=0), poster presented at Fully3D conference, 2015
 - **IMPACT and SKILLS**:
