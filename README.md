@@ -32,8 +32,8 @@ My lab was involved with several clinical trials, collecting breast CT images fr
    - See [the poster](https://www.dropbox.com/scl/fi/5xtluwyhp6ubhasct82bo/I131MIBG_CologneANR2014_Huang.jpg?rlkey=5dbiakltw5zabmpac17r59cds&st=n6vvlduu&dl=0) presented at [Advances in Neuroblastoma Research Association, 2014, Cologne, Germany](https://www.anrmeeting.org/meetings-2014.php)
    - See details in [Patient-Specific Dosimetry Using Pretherapy [124I]m-iodobenzylguanidine([124I]mIBG) Dynamic PET/CT Imaging Before [131I]mIBG Targeted Radionuclide Therapy for Neuroblastoma](https://www.dropbox.com/scl/fi/df486p3vw5ycv1w585111/I124MIBG_MIBJournalPublicationPrint_MIB_SHuang.pdf?rlkey=avewd6hutwxalcagufqwgnvcv&st=ss7htr66&dl=0)
    - **IMPACT**: The estimated dosimetry specific to each patient was helpful to physicians to evaluate the effectiveness of the treatment
-2. **Radiomics Using PET/CT and MR Images of Breast Cancer Patients**
-   - Gathered and explored PET/CT and MR images of segmented breast tumors in 200+ patients with breast cancer
+2. **Radiomics of PET and MR Images of Breast Cancer Patients and its Predictive Power of Breast Cancer Phenotypes and Prognosis**
+   - Gathered and explored PET/CT and MR images of segmented breast tumors in 113 patients with breast cancer
    - Implemented a Python-based tool to compute 2D and 3D image features of the segmented PET and MR images of the breast tumors
    - Determined helpful features to predict breast cancer outcome using machine learning models
    - Check out [the PETCTomics project on Github](https://github.com/clarehchao/PETCTomics) for code and jupyter notebooks
