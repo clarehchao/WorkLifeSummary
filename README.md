@@ -11,7 +11,7 @@
 
 ## During my PhD years, I learned a lot ...
 My lab was involved with several clinical trials, collecting breast CT images from hundreds of human volunteers
-1. **With the large amount of breast CT images, I characterized the beast anatomny in many ways including**
+1. **With the large amount of breast CT images, I characterized the beast anatomy in many ways including**
   - Breast density
   - Cup-size related measurement
   - Skin thickness
