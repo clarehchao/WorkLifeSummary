@@ -49,7 +49,7 @@ My lab was involved with several clinical trials, collecting breast CT images fr
 	- Flexible with proof-of-concept implementation and experimentation
 	- Ready to answer a research question using computation and experimenation
 	- Quick to pick up tool or programing language to implement and conduct a research project
-	- Act as a consultant and liaison working with start-up companies and vendors to develop proof-of-concept ideas to products and recommendation for added features to existing products
+	- Act as a consultant and liaison working with start-up companies and vendors to develop proof-of-concept ideas to products and to recommend consideration and added features to existing products
 
 ## When I became a mom to 2 silly and fun boys, I took some time to slow down and works on things when I can ...
 - Involved in a local co-op teaching preK kids about bible, the alphabet, counting, and fun games/crafts (lesson planning and teach at an age-appropriate manner)
