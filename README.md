@@ -42,6 +42,7 @@ My lab was involved with several clinical trials, collecting breast CT images fr
    - **IMPACT**: determine the power of 2D and 3D image features of the PET and MR images in predicting breast cancer outcome
 
 # A few proof-of-concept projects that I worked on ...
+- [3D-rendered video generated with contrast-enhanced breast CT images](https://github.com/clarehchao/3DImageVolumeToMovie)
 - [Proof of concept of a proton-counting SPECT/CT imaging system](https://www.dropbox.com/scl/fi/31eeqy1u73wa5f45gc1a6/DxRayEnergySpectrum_IEEE_33x54inch_Huang_flatten_Poster.pdf?rlkey=dez683z21gb4nu3sdc1xlr4ju&st=q1pvitg2&dl=0), collaborated with Dxray, Inc., poster presentated at IEEE Nuclear Science Symposium and Medical Imaging Conference, November 2012
 - [The effect of magnetic field on positron range using Monte Carlo simulations](https://www.dropbox.com/scl/fi/els0rwhxzery4585nqg9q/MagFieldPositronRange_Huang_42x70_4_Poster.pdf?rlkey=zddwf8tu6gn2g47ryayqd70tw&st=gk8ea3u5&dl=0), poster presented at IEEE Nuclear Science Symposium and Medical Imaging Conference, November 2014
 - [3D MLEM image reconstruction algorithm using Spark GraphX for faster computationg time](https://www.dropbox.com/scl/fi/9yviih3lq1wj9d061sje4/MLEM_SparkGraphX_Poster_SHuang.pdf?rlkey=mmyrg16c777bugrx0s4tw9hp4&st=93rzk842&dl=0), poster presented at Fully3D conference, 2015
