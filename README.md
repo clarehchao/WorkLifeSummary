@@ -56,10 +56,11 @@ My lab was involved with several clinical trials, collecting breast CT images fr
 - [3D MLEM image reconstruction algorithm using Spark GraphX for faster computation time on Github](https://github.com/clarehchao/Spark3DImageReconstruction) and [the poster presentation at Fully3D conference, 2015](https://www.dropbox.com/scl/fi/9yviih3lq1wj9d061sje4/MLEM_SparkGraphX_Poster_SHuang.pdf?rlkey=mmyrg16c777bugrx0s4tw9hp4&st=93rzk842&dl=0)
 - **IMPACT and SKILLS**:
 	- Flexible with simple proof-of-concept implementation and experimentation
-	- Quick to learn necessary computation tools and design experiments to answer research questions or provide recommendation
+	- Quick to learn necessary computation tools and design experiments to answer research questions
+    - Act as a consultant and liaison working with start-up companies and vendors to develop proof-of-concept ideas to products and provide recommendations for added features to existing products
 
 ## When I became a mom of 2 boys, I took some time to slow down and works on things when I can
-- Involved in a local co-op teaching preK kids about bible, the alphabet, counting, and fun games/crafts (lesson planning and teach at an age-appropriate manner)
+- Involved in a local co-op teaching preschool kids about bible, the alphabet, counting, and fun games/crafts (lesson planning and teach at an age-appropriate manner)
 - Started illustrating more during my free time using [Procreate on an IPAD](https://procreate.com/) making greeting cards and children's books ([My Etsy shop](https://thecraftyslug.etsy.com) and [My illustration portfolio](https://www.behance.net/shihyingclarechao)).
 - Realize my love of creating and finding ways to communicate a concept or idea using visualization, whether it's illustration or explore data to create a visualization best fit for effective communication of findings
 - If not thinking about drawing fuzzy and cute animals or being out in the nature, I often think about ideas of how to best visualize and present data for clear communication of the data
